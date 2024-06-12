@@ -10,4 +10,8 @@ HUNTER uses GOMS (Goals, a set of Operators, a set of Methods for achieving the 
 
 
 
- Card, Stuart; Thomas P. Moran; Allen Newell (1983). The Psychology of Human Computer Interaction. Lawrence Erlbaum Associates. ISBN 0-89859-859-1.
+Card, Stuart; Thomas P. Moran; Allen Newell (1983). The Psychology of Human Computer Interaction. Lawrence Erlbaum Associates. ISBN 0-89859-859-1.
+ 
+Lew, R., Ulrich, T. A., & Boring, R. L. (2022). Human Unimodel for Nuclear Technology to Enhance Reliability (HUNTER) Demonstration: Part 2, Model Runs of Operational Scenarios (INL/RPT-22-70076). U.S. Department of Energy, Office of Nuclear Energy.
+
+Lew, R., Kim, J., Park, J., Ulrich, T., Boring, R., Prescott, S., & Mortenson, T. (2023). EMRALD-HUNTER: An Embedded Dynamic Human Reliability Analysis Module for Probabilistic Risk Assessment (INL/RPT-23-72783). U.S. Department of Energy, Office of Nuclear Energy, Light Water Reactor Sustainability Program.
