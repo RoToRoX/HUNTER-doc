@@ -1,6 +1,8 @@
 # HUNTER Documentation
 
 ### Human Unimodel for Nuclear Technology to Enhance Reliability
+![image](https://github.com/RoToRoX/HUNTER-doc/assets/3652906/1e4cbc51-03a6-4342-9ab1-13756d318a29)
+
 
 HUNTER is a virtual nuclear power plant model for dynamic human reliabiltiy analysis.
 
